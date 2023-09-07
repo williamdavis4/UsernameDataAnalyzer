@@ -5,6 +5,8 @@ A tool designed for researchers and cyber security enthusiasts to analyze a list
 
 This tool aims to streamline the process of analyzing large sets of usernames, helping in gathering useful information from databases and presenting it in a concise manner. It is important to note that UsernameDataAnalyzer should be used responsibly and ethically, respecting privacy laws and guidelines.
 
+This code is meant to be added to, to fit your specific needs (ex: passwords, billing details, hashes -etc).
+
 **USAGE**
 - put the file into a directory
 - using a terminal, cd into that directory
